@@ -9,7 +9,7 @@ A PHP library to work with immutable 2D geometry.
 
 ## Documentation
 
-The full documentation is at https://phpmath.github.io/geometry/. Every release is described on the [releases page](https://github.com/phpmath/geometry/releases).
+The full documentation is at https://phpmath.github.io/geometry/. Every change is listed in the [changelog](CHANGELOG.md) and every release on the [releases page](https://github.com/phpmath/geometry/releases).
 
 ## Install
 
